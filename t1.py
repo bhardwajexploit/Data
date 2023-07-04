@@ -26,23 +26,25 @@ speed("slowest")
 
 
 # for hexagon
-fd(100)
-rt(60)
-fd(100)
-rt(60)
-fd(100)
-rt(60)
-fd(100)
-rt(60)
-fd(100)
-rt(60)
-fd(100)
-rt(60)
+#fd(100)
+#rt(60)
+#fd(100)
+#rt(60)
+# fd(100)
+# rt(60)
+# fd(100)
+# rt(60)
+# fd(100)
+# rt(60)
+# fd(100)
+# rt(60)
+for i in range():
+    fd(100)
+    rt(360/10)
 
 
 
-
-hideturtle();# for hiding the turtle
+hideturtle()# for hiding the turtle
 
 
 
